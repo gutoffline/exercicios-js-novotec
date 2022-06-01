@@ -1,0 +1,1 @@
+document.getElementById("mensagem").innerText = "Alô mundo"
